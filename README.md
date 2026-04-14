@@ -1,4 +1,4 @@
-<h2 align="left">Ola! Meu nome é Gabriel Roberto</h2>
+<h2 align="left">Olá! Meu nome é Gabriel Roberto</h2>
 
 ###
 
